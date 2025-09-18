@@ -23,9 +23,8 @@ Real-time **face-mask detection**
 ---
 
 ## ⚙️ Setup Instructions
-
-1️⃣ Clone Repository
 ```bash
+1️⃣ Clone Repository
 git clone https://github.com/ChauhanVi/face-mask-detector.git
 cd face-mask-detector
 2️⃣ Create Virtual Environment (Recommended)
