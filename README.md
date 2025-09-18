@@ -53,3 +53,5 @@ python src/detect_mask_video.py --source 0
 
 📹 Run on a Video File:
 python src/detect_mask_video.py --source assets/video.mp4#
+
+<img width="847" height="913" alt="Image" src="https://github.com/user-attachments/assets/516d5f20-13a9-4234-8fb1-0d70b7a502bc" />
