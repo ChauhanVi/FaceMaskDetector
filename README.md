@@ -24,7 +24,7 @@ Real-time **face-mask detection**
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 ```bash
 git clone https://github.com/ChauhanVi/face-mask-detector.git
 cd face-mask-detector
